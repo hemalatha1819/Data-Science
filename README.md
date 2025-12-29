@@ -13,5 +13,3 @@ This repository contains my Data Science learning and practice work.
 - Pandas
 - NumPy
 
-## Purpose
-To build strong fundamentals in Data Science and prepare for interviews.
